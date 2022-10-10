@@ -10,3 +10,5 @@
 
 [IA que te ayuda con el codigo](https://beta.openai.com/playground)
 
+***Libros***
+Robert C. Martin
