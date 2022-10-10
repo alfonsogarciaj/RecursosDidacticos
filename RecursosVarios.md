@@ -4,6 +4,7 @@ Cursos back-end desde 0!
 
 [Aprender JS](https://aprendejavascript.dev)
 
+[Aprender Python](https://www.minigen.io/courses/aprende-a-programar-con-python-desde-cero-edicion-2021-2022)
 
 Otros recursos!
 
