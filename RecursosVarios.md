@@ -13,3 +13,7 @@
 ***Libros***
 
 Robert C. Martin
+
+***Ejercicios***
+
+[Ejercicio JS](https://www.tiktok.com/@midudev/video/7138050580148243718?is_copy_url=1&is_from_webapp=v1&lang=es)
