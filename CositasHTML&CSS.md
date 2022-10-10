@@ -1,5 +1,6 @@
 ### Centrar un div
 
+```
 main{
   min-height: 100vh;
   display: flex;
@@ -7,3 +8,6 @@ main{
   align-items: center;
   justify-content: center
 }
+```
+
+
