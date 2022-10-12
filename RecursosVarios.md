@@ -6,6 +6,8 @@
 
 [Aprender Python](https://www.minigen.io/courses/aprende-a-programar-con-python-desde-cero-edicion-2021-2022)
 
+[Apuntes de todo](https://midu.link/majo)
+
 ***Otros recursos!***
 
 [IA que te ayuda con el codigo](https://beta.openai.com/playground)
