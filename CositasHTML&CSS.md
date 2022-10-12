@@ -1,6 +1,6 @@
 ### Centrar un div
 
-```
+```html
 main{
   min-height: 100vh;
   display: flex;
@@ -21,7 +21,7 @@ main{
 
 ``` 
 
-```css
+```html
 button {
 display: flex;
 flex-direction: column;
@@ -52,4 +52,12 @@ button:hover div:last-child{
 transform: rotate(-45deg);
 }
 
+```
 
+### Fijar algo al hacer scroll
+
+```html
+.header{
+position: sticky;
+}
+```
