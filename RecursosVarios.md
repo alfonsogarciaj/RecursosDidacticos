@@ -8,6 +8,8 @@
 
 [Apuntes de todo](https://midu.link/majo)
 
+[Tansiciones css](https://www.transition.style)
+
 ***Otros recursos!***
 
 [IA que te ayuda con el codigo](https://beta.openai.com/playground)
