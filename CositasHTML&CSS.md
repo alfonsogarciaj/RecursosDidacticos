@@ -61,3 +61,24 @@ transform: rotate(-45deg);
 position: sticky;
 }
 ```
+
+### Dark mode
+
+```html
+<input
+       type="checkbox"
+       id="dar-mode"
+       onclick="document.documentElement.classList
+                .toggle('dark-mode')"
+       />
+```
+
+```css
+html.dark-mode{
+filter: invert(100%);
+}
+
+html.dark-mode img {
+filter: invert(100%);
+}
+```
