@@ -21,7 +21,7 @@
 
 [Plantillas gratis](https://uideck.com/templates/)
 
-[Videos gratis](clipchamp.com)
+[Videos gratis](https://clipchamp.com/es/)
 
 ***Libros***
 
