@@ -15,9 +15,13 @@
 
 ***Otros recursos!***
 
+[Borar algo de una foto](https://www.magiceraser.io)
+
 [IA que te ayuda con el codigo](https://beta.openai.com/playground)
 
 [Plantillas gratis](https://uideck.com/templates/)
+
+[Videos gratis](clipchamp.com)
 
 ***Libros***
 
