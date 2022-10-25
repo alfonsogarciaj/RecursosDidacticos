@@ -20,6 +20,15 @@
 
 [Juego para aprender ciberseguridad](https://beinternetawesome.withgoogle.com/es-419_all/interland)
 
+***Cositas para HTML y CSS***
+
+[Creador de sombras](https://www.joshwcomeau.com/shadow-palette/)
+
+[Dar formas a imagenes](https://bennettfeely.com/clippy/)
+
+[CSS Loader](https://cssloaders.github.io)
+
+[Fonde Gradients](https://www.designgradients.com)
 
 ***Otros recursos!***
 
