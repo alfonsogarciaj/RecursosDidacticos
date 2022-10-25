@@ -32,6 +32,8 @@
 
 ***Otros recursos!***
 
+[Pruebas Tecnicas-Test](https://flyncer.com)
+
 [Borar algo de una foto](https://www.magiceraser.io)
 
 [IA que te ayuda con el codigo](https://beta.openai.com/playground)
