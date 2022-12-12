@@ -1,3 +1,4 @@
+```
 # Comentarios de una línea comienzan con una almohadilla (o signo gato)
 
 """ Strings multilinea pueden escribirse
@@ -537,3 +538,5 @@ def say(decir_por_favor=False):
 
 print(decir())  # ¿Puedes comprarme una cerveza?
 print(decir(decir_por_favor=True))  # ¿Puedes comprarme una cerveza? ¡Por favor! Soy pobre :()
+
+```
