@@ -1,4 +1,5 @@
-```
+```py
+
 # Comentarios de una línea comienzan con una almohadilla (o signo gato)
 
 """ Strings multilinea pueden escribirse
